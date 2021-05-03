@@ -4,7 +4,6 @@ info:
   title: pmcollection
 servers:
   - url: 'http://localhost:3000'
-  - serve2: "asdasd"
 paths:
   /user:
     get:
